@@ -1,0 +1,25 @@
+body{
+	background-image: url(def.jpg);
+	background-size:cover;
+}
+
+h2{
+	color: blue;
+}
+
+/*.boxmodel {
+	border: 5px solid red;
+	display: inline-block;
+	padding: 5px 20px 5px 20px; /*r the box*/
+	margin: 0px 20px;
+	width: 33px;
+	height: 55px;
+}*/
+
+p {
+	font-size: 20px;
+}
+
+span {
+	font-size: 2em;
+}
